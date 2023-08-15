@@ -20,15 +20,21 @@
 
 # 📊 GitHub Stats:
 <div style="display: flex; justify-content: space-between; align-items: center;">
-    <a href="https://github-readme-stats.vercel.app/api?username=BisalKumar&theme=radical&hide_border=false&include_all_commits=true&count_private=true" style="flex: 1; margin: 0 10px; height: 250px;">
-        <img src="https://github-readme-stats.vercel.app/api?username=BisalKumar&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" width="100%" height="100%" />
-    </a>
-    <a href="https://github-readme-streak-stats.herokuapp.com/?user=BisalKumar&theme=radical&hide_border=false" style="flex: 1; margin: 0 10px; height: 250px;">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=BisalKumar&theme=radical&hide_border=false" alt="GitHub Streak" width="100%" height="100%" />
-    </a>
-    <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=BisalKumar&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" style="flex: 1; margin: 0 10px; height: 250px;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BisalKumar&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" width="100%" height="100%" />
-    </a>
+    <div style="flex: 1; margin: 0 10px; text-align: center;">
+        <a href="https://github-readme-stats.vercel.app/api?username=BisalKumar&theme=radical&hide_border=false&include_all_commits=true&count_private=true">
+            <img src="https://github-readme-stats.vercel.app/api?username=BisalKumar&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" width="100%" />
+        </a>
+    </div>
+    <div style="flex: 1; margin: 0 10px; text-align: center;">
+        <a href="https://github-readme-streak-stats.herokuapp.com/?user=BisalKumar&theme=radical&hide_border=false">
+            <img src="https://github-readme-streak-stats.herokuapp.com/?user=BisalKumar&theme=radical&hide_border=false" alt="GitHub Streak" width="100%" />
+        </a>
+    </div>
+    <div style="flex: 1; margin: 0 10px; text-align: center;">
+        <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=BisalKumar&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact">
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BisalKumar&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" width="100%" />
+        </a>
+    </div>
 </div>
 
 
